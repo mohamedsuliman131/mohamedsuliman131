@@ -1,10 +1,13 @@
+
 <!--
-    Hey there, I'm Mohamed suliman!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn --> https://www.linkedin.com/in/mohamed-suliman-2219m/ --!>
+Hey there, I'm Mohamed Suliman!
+Happy to see you here exploring my README code.
+Feel free to get inspired.
+
+But may I please ask you to follow me in return? Just a click!
+You may also want to connect with me on LinkedIn:
+https://www.linkedin.com/in/mohamed-suliman-2219m/
+-->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
@@ -60,23 +63,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-suliman-2219m/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="https://devfolio111.netlify.app/">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="Portfolio"/>
-</a>
-
-<a href="https://www.instagram.com/mohamed.__.suliman/">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" alt="Instagram"/>
-</a>
-
-<a href="https://www.facebook.com/mohamed.suliman.3956690?locale=ar_AR">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40" alt="Facebook"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohamedsuliman131@example.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/mohamed.suliman.3956690">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mohamed.__.suliman/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>

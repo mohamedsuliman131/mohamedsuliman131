@@ -13,17 +13,11 @@ https://www.linkedin.com/in/mohamed-suliman-2219m/
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mohamed+Suliman;Web+Developer" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mohamed+Suliman;Web+Developer" alt="Web Developer"/>
 </a>
 
 
-<div>
-    <img src="" alt="About Me Terminal GIF"/>
-</div>
 
-<!--
-     My mission, because I'm a superhero!
--->
 <!--
      This is the list of my skills and tools I am studying!
 -->

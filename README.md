@@ -37,7 +37,7 @@ class MohamedSuliman {
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main skills
+## Main skills
 ###
 
 <div align="center">
@@ -69,7 +69,7 @@ class MohamedSuliman {
 
 
 
-### Connect with me!
+## Connect with me!
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-suliman-2219m/">

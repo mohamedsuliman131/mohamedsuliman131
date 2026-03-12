@@ -16,7 +16,22 @@ https://www.linkedin.com/in/mohamed-suliman-2219m/
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mohamed+Suliman;Web+Developer" alt="Web Developer"/>
 </a>
 
+## 🚀 About Me
 
+```dart
+class MohamedSuliman {
+  String role = "Web Developer";
+  List<String> languages = ["Arabic", "English"];
+
+  List<String> skills = [
+    "Front-end Development",
+    "Dart Animations",
+    "HTML, CSS, JavaScript, C++",
+    "Git & GitHub, GitHub Copilot",
+    "Code Simplification & Optimization"
+  ];
+}
+```
 
 <!--
      This is the list of my skills and tools I am studying!

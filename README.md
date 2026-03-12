@@ -24,8 +24,9 @@ class MohamedSuliman {
   List<String> languages = ["Arabic", "English"];
 
   List<String> skills = [
+    "CS Student",
+    "Problem Solver",
     "Front-end Development",
-    "Dart Animations",
     "HTML, CSS, JavaScript, C++",
     "Git & GitHub, GitHub Copilot",
     "Code Simplification & Optimization"
